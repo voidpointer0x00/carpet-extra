@@ -28,8 +28,8 @@
 
   "depends": {
     "fabricloader": ">=0.15.11",
-    "carpet": ">=1.4.145",
-    "minecraft": ["1.21-beta.1"],
+    "carpet": ">=1.4.147",
+    "minecraft": ["1.21"],
     "java": ">=21"
   },
   "custom": {
